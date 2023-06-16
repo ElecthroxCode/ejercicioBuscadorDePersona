@@ -8,7 +8,7 @@ Planteamiento del problema:
 > *Crea un programa que tenga un arreglo con nombres completos de personas.* 
 
 
-##Agregar una persona
+## Agregar una persona
 ```java
 Persona p;
     ArrayList<Persona> list = new ArrayList();
@@ -17,7 +17,7 @@ Persona p;
         list.add(p);
     }
 ```
-##Buscar por nombre o por apellido
+## Buscar por nombre o por apellido
 ```java
 
     public Persona buscarPorNombre(String nombre) {
