@@ -42,7 +42,7 @@ Persona p;
         return resultado;
     }
 ```
-##Mostrar lista
+## Mostrar lista
 ```java
     public void mostrarLista() {
         list.forEach((l) -> {
